@@ -51,4 +51,3 @@ Created by Bina Jariwala
 None
 
 ---
-![image](https://user-images.githubusercontent.com/84485387/128643568-b8e648e5-0261-4204-84f5-5882ed740e40.png)

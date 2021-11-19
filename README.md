@@ -1,5 +1,5 @@
 
-# Module_10_Challenge
+# Crypto Portfolio Machine Learning Unsupervised
 This application helps create a prototype of your crypto portfolio that clusters cryptocurrencies by their performance in different time period and visually show the performance.
 ---
 ## Technologies
